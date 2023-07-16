@@ -4,7 +4,7 @@
 #include <QWidget>
 #include <QTimer>
 #include <QKeyEvent>
-
+#include "bullet.h"
 class Player;
 class Enemy;
 
